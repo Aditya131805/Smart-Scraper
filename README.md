@@ -121,9 +121,10 @@ Always respect a website’s **robots.txt and terms of service** before scraping
 
 ---
 
-## 👨‍💻 Author
+## 👤 Author
 
-**Aditya Gupta**
+**Aditya Gupta**  
+[GitHub](https://github.com/Aditya131805) · [LinkedIn](https://www.linkedin.com/in/aditya-gupta-771396331/)
 
 ---
 
